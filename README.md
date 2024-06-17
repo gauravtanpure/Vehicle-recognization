@@ -35,9 +35,14 @@ Automatic Vehicle Recongnization System
 
 - Excel Files:
   - `number.xlsx` and `vehicle_count.xlsx` must be present in `D:\ANPR Dataset\`.
+ 
+  - The above folder is also given in repository.
 
 ## Additional Resources
 Download following files and store it in the main folder.
 
 https://drive.google.com/drive/folders/16ztNa-8_NSg71VnO6RgFQB2Hqms5yEMW?usp=drive_link
+
+## Help
+If you need any type of help you can mail me on gauravtanpure999@gmail.com
 
