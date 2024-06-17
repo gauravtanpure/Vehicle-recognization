@@ -1,0 +1,10 @@
+ID 	 SPEED
+------	-------
+1 	 42
+
+-------------
+-------------
+SUMMARY
+-------------
+Total Vehicles :	1
+Exceeded speed limit :	0
