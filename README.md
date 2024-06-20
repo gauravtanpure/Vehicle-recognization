@@ -22,20 +22,11 @@ Automatic Vehicle Recongnization System
 ![image](https://github.com/gauravtanpure/Vehicle-recognization/assets/147535321/410fd9ad-f23b-4686-86f3-51013a293cc8)
 
 7) Folder Structure for ANPR Dataset/ Records:-
+   
 ![image](https://github.com/gauravtanpure/Vehicle-recognization/assets/147535321/fa17a0ea-1c38-4112-bcb3-ebcba895f5db)
 
 
-
-
-
-
-
-
-
-
-
-
-   
+# Follow below steps to Set-Up the Project.
 
 # Automatic Number Plate Recognition (ANPR) Project
 
